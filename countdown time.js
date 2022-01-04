@@ -21,3 +21,10 @@
                                                         }
                                                         timer2 = minutes + ':' + seconds;
                                                     }, 1000);
+
+
+
+
+
+
+var interval - must be a global to clearinterval!
